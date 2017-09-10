@@ -1,4 +1,4 @@
-// start of pipeline
+// start of pipeline job
 pipeline {
   // where pipeline job will run
   agent {
